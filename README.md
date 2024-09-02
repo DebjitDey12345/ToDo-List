@@ -1,3 +1,10 @@
+#Todo list app project using react JS Here is the screenshot of the project.
+
+
+![Screenshot (104)](https://github.com/user-attachments/assets/7c8f00a9-df50-4081-a23e-76f934c59ad3)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
